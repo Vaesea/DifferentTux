@@ -1,0 +1,9 @@
+(supertux-sprite
+      (action
+         (name "normal")
+         (images "full-0.png"
+                 ))
+      (action
+         (name "empty")
+         (images "empty.png"))
+)
