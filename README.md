@@ -13,7 +13,7 @@ And yes, this is very inspired by Tux Junior.
 # CREDITS
 0.3.2 SuperTux Team - Various things that have been added here (old iceshrub, old backgrounds and probably more)
 
-Stephen Groundwater / Slackstone - Coin Replacement (fish) (part of https://opengameart.org/content/game-art-charms), Forest World Adventure Pack (GitHub + OpenGameArt) + some old SuperTux stuff (some things from fwap + old supertux are here), also Tux Junior (this is very inspired by tux junior)
+Stephen Groundwater / Slackstone - Coin Replacement (fish) (part of https://opengameart.org/content/game-art-charms), Forest World Adventure Pack (GitHub + OpenGameArt) + some old SuperTux stuff (some things from fwap + old supertux are here), also Tux Junior (this is very inspired by tux junior) https://opengameart.org/content/super-tux-forest-world-adventure-pack-fwap
 
 opengameart.org - Where I got the custom music and the most Forest World Adventure Pack things from (some fwap stuff are from the supertux media repository)
 
