@@ -1,0 +1,6 @@
+(supertux-world
+  (title (_ "Forestland levels"))
+  (description "World 2 - ForestLand - levels")
+  (hide-from-contribs #f)
+  (levelset #f)
+)
