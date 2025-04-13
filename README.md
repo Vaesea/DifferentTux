@@ -27,6 +27,8 @@ Mega Pixel Music Lab - https://opengameart.org/content/kidz-newz-cycle (Kidz New
 
 Fantasy Musica (Beau Buckley) - https://opengameart.org/content/forest-03 (Forest 03)
 
+jobromedia (Johan Brodd) - https://opengameart.org/content/totem-construction-kit (a texture from there is used for a rock. also i might put a totem from there in forest land)
+
 "Christmas Eve" Composed by Michael Spect (www.soundspect.com) (https://opengameart.org/content/christmas-eve-celeste-version)
 
 GIMP (Gnu Image Manipulation Program) - "Sky" pattern that was used for the background named sky.jpg (https://www.gimp.org/)
