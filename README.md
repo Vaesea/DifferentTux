@@ -1,4 +1,4 @@
-# VaeseaTux
+# DifferentTux
 This is a mod of SuperTux 0.3.2 (data folder only).
 
 And yes, this is very inspired by Tux Junior.
@@ -30,7 +30,7 @@ Mega Pixel Music Lab - https://opengameart.org/content/kidz-newz-cycle (Kidz New
 GIMP (Gnu Image Manipulation Program) - "Sky" pattern that was used for the background named sky.jpg (https://www.gimp.org/)
 
 # Development Status
-"Milestone 1" (Snowy Island) is finished, although now Milestone 1.5 needs to be made, which will include new levels for Forest Land and improvements to Snowy Island!
+"Milestone 1" (Snowy Island) is finished.
 
 # Want to help?
 If you want to help, you can do the following things:
