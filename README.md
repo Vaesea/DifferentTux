@@ -1,5 +1,5 @@
 # DifferentTux
-This is a mod of SuperTux 0.3.2 (data folder only). It changes the style of SuperTux to be different (that's the only way I can explain it) and it replaces the SuperTux levels with new ones.
+This is a mod of SuperTux 0.3.2 (data folder only). It changes the art style of SuperTux to be different (that's the only way I can explain it) and it replaces the SuperTux levels with new ones.
 
 And yes, this is very inspired by Tux Junior.
 
