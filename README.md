@@ -1,5 +1,5 @@
-# VaeseaTux
-This is a mod of SuperTux 0.3.2 (data folder only).
+# DifferentTux
+This is a mod of SuperTux 0.3.2 (data folder only). It changes the style of SuperTux to be different (that's the only way I can explain it) and it replaces the SuperTux levels with new ones.
 
 And yes, this is very inspired by Tux Junior.
 
@@ -24,6 +24,8 @@ pheonton - https://opengameart.org/content/one (One)
 Alexandr Zhelanov (https://www.youtube.com/c/AlexandrZhelanovsMusic) - https://opengameart.org/content/little-war-march-or-to-death-with-a-smile (Little War Much or To death with a smile)
 
 Mega Pixel Music Lab - https://opengameart.org/content/kidz-newz-cycle (Kidz Newz Cycle) (Filename is "salcon" because it has to be named salcon to work without source code being changed) and https://opengameart.org/content/march-to-the-moon (March To The Moon)
+
+Fantasy Musica (Beau Buckley) - https://opengameart.org/content/forest-03 (Forest 03)
 
 "Christmas Eve" Composed by Michael Spect (www.soundspect.com) (https://opengameart.org/content/christmas-eve-celeste-version)
 
